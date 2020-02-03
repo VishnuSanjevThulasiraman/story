@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace stf;
+
+int main(){
+
+int a ;
+cout<<a;
+
+}
