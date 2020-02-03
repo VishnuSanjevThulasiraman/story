@@ -1,9 +1,10 @@
 #include<iostream>
-using namespace stf;
+using namespace std;
 
 int main(){
 
 int a ;
 cout<<a;
 
+return 0;
 }
