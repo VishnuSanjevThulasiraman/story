@@ -1,1 +1,1 @@
-# story
+This is my first repo.
